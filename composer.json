@@ -1,6 +1,6 @@
 {
-    "name": "baidu/aip-sdk",
-    "description": "baidu pulic ai php sdk",
+    "name": "huangxinkui/baidu-aip",
+    "description": "baidu public ai php sdk",
     "authors": [
         {
             "name": "baidu"
